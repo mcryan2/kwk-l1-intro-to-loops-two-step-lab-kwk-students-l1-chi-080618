@@ -36,6 +36,9 @@ def a_few_more_steps
  end
  end
  
+ def how many steps?
+   steps = 0
+   loop do 
   # Write a loop that outputs the first two sets of steps in the Two-Step
 end
 
